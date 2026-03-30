@@ -1,0 +1,113 @@
+# =========================
+
+# .NET / Visual Studio
+
+# =========================
+
+bin/
+obj/
+out/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# =========================
+
+# Rider / VS Code
+
+# =========================
+
+.vs
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+logs/
+*.tlog
+
+# =========================
+
+# NuGet
+
+# =========================
+
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+
+# Azure / Secrets
+
+# =========================
+
+appsettings.Development.json
+appsettings.Local.json
+local.settings.json
+.env
+.env.*
+
+# User secrets
+
+secrets.json
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Test results
+
+# =========================
+
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# =========================
+
+# Publish output
+
+# =========================
+
+publish/
+*.publish.xml
+
+# =========================
+
+# Temporary files
+
+# =========================
+
+*.tmp
+*.temp
+*.cache
